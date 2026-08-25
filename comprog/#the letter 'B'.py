@@ -1,0 +1,11 @@
+#the letter 'B'
+print("*****  ")
+print("*    * ")
+print("*     *")
+print("*    * ")
+print("*****  ")
+print("*    * ")
+print("*     *")
+print("*    * ")
+print("*****  ")
+print()
